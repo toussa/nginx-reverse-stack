@@ -1,5 +1,7 @@
 # nginx-reverse-stack
 
+__This project is not maintained anymore and is here for history only__
+
 This is the stack I used, back in 2016, as an automatic reverse-proxy for all my websites.
 At that time, docker swarm did not exist and I was looking for something that respects standards and that I did not need to maintain everyday.
 
